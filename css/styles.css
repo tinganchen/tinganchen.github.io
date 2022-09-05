@@ -189,7 +189,7 @@ a:hover {
 	padding: 1rem 1rem 1rem 1rem;
 	border: 1px solid #467599;
 	border-radius: 32px;
-	background-color: #467599;
+	background-color: #d2f5c1;
 	color: #ffffff;
 	font-weight: 600;
 	font-size: 0.875rem;
@@ -200,18 +200,18 @@ a:hover {
 }
 
 .btn-solid-lg:hover {
-	border: 1px solid #d2f5c1; /* backgroubd color: blue #467599*/
+	border: 1px solid #467599; /* backgroubd color: blue #467599*/
 	background-color: transparent; 
-	color: #d2f5c1; /* backgroubd color: blue #467599*/
+	color: #467599; /* backgroubd color: blue #467599*/
 	text-decoration: none;
 }
 
 .project .btn-solid-lg {
 	background-color: transparent;
-	color: #d2f5c1; /* backgroubd color: blue #467599*/
+	color: #467599; /* backgroubd color: blue #467599*/
 }
 .project .btn-solid-lg:hover {
-	background-color: #d2f5c1; /* backgroubd color: blue #467599*/
+	background-color: #467599; /* backgroubd color: blue #467599*/
 	color: #ffffff;
 }
 
