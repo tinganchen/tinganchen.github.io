@@ -104,7 +104,7 @@ h6 {
 }
 
 .project-title {
-	color: #d2f5c1;
+	color: #467599;
 	padding-top: 16px;
 }
 
@@ -160,7 +160,7 @@ a:hover {
 }
 
 .bg-gray {
-	background-color: #f1f9fc;
+	background-color: #e9fae1; /* Background Color #f1f9fc*/
 }
 
 .btn-solid-reg {
@@ -187,7 +187,7 @@ a:hover {
 .btn-solid-lg {
 	display: inline-block;
 	padding: 1rem 1rem 1rem 1rem;
-	border: 1px solid #d2f5c1;
+	border: 1px solid #467599;
 	border-radius: 32px;
 	background-color: #d2f5c1;
 	color: #ffffff;
@@ -200,18 +200,18 @@ a:hover {
 }
 
 .btn-solid-lg:hover {
-	border: 1px solid #d2f5c1; /* backgroubd color: blue #d2f5c1*/
+	border: 1px solid #467599; 
 	background-color: transparent; 
-	color: #d2f5c1; /* backgroubd color: blue #d2f5c1*/
+	color: #467599; 
 	text-decoration: none;
 }
 
 .project .btn-solid-lg {
 	background-color: transparent;
-	color: #d2f5c1; /* backgroubd color: blue #d2f5c1*/
+	color: #467599; 
 }
 .project .btn-solid-lg:hover {
-	background-color: #d2f5c1; /* backgroubd color: blue #d2f5c1*/
+	background-color: #467599; 
 	color: #ffffff;
 }
 
