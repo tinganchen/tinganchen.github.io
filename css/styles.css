@@ -200,18 +200,18 @@ a:hover {
 }
 
 .btn-solid-lg:hover {
-	border: 1px solid #467599;
-	background-color: transparent;
-	color: #467599; /* needs to stay here because of the color property of a tag */
+	border: 1px solid #d2f5c1; /* backgroubd color: blue #467599*/
+	background-color: transparent; 
+	color: #d2f5c1; /* backgroubd color: blue #467599*/
 	text-decoration: none;
 }
 
 .project .btn-solid-lg {
 	background-color: transparent;
-	color: #467599;
+	color: #d2f5c1; /* backgroubd color: blue #467599*/
 }
 .project .btn-solid-lg:hover {
-	background-color: #467599;
+	background-color: #d2f5c1; /* backgroubd color: blue #467599*/
 	color: #ffffff;
 }
 
