@@ -25,7 +25,7 @@ Table Of Contents:
 
 /*****************************************
 Colors:
-- Backgrounds - light gray #f1f9fc
+- Backgrounds - light gray #e9fae1
 - Buttons, icons - purple #594cda
 - Buttons, icons - red #eb427e
 - Headings text - black #252c38
@@ -468,7 +468,7 @@ input[type='checkbox'] {
 /*     Navigation     */
 /**********************/
 .navbar {
-	background-color: #f1f9fc;
+	background-color: #e9fae1;
 	font-weight: 600;
 	font-size: 0.875rem;
 	line-height: 0.875rem;
@@ -502,7 +502,7 @@ input[type='checkbox'] {
 	padding-left: 1rem;
 	overflow-y: auto;
 	visibility: hidden;
-	background-color: #f1f9fc;
+	background-color: #e9fae1;
 	transition: visibility .3s ease-in-out, -webkit-transform .3s ease-in-out;
 	transition: transform .3s ease-in-out, visibility .3s ease-in-out;
 	transition: transform .3s ease-in-out, visibility .3s ease-in-out, -webkit-transform .3s ease-in-out;
@@ -552,7 +552,7 @@ input[type='checkbox'] {
 	margin-top: 0.5rem;
 	margin-bottom: 0.5rem;
 	border: none;
-	background-color: #f1f9fc;
+	background-color: #e9fae1;
 }
 
 .navbar .dropdown-item {
@@ -566,7 +566,7 @@ input[type='checkbox'] {
 }
 
 .navbar .dropdown-item:hover {
-	background-color: #f1f9fc;
+	background-color: #e9fae1;
 	color: #ff6e84;
 }
 
@@ -667,7 +667,7 @@ input[type='checkbox'] {
 	padding: 3.125rem 1rem 2.125rem 1rem;
 	border: none;
 	border-radius: 16px;
-	background-color: #f1f9fc;
+	background-color: #e9fae1;
 }
 
 .cards-1 .card-image {
@@ -1252,7 +1252,7 @@ a:hover.back-to-top {
 .ex-header {
 	padding-top: 8.5rem;
 	padding-bottom: 4rem;
-	background-color: #f1f9fc;
+	background-color: #e9fae1;
 }
 
 .ex-basic-1 .list-unstyled .fas {
@@ -1266,7 +1266,7 @@ a:hover.back-to-top {
 
 .ex-basic-1 .text-box {
 	padding: 1.25rem 1.25rem 0.5rem 1.25rem;
-	background-color: #f1f9fc;
+	background-color: #e9fae1;
 }
 
 .ex-cards-1 .card {
@@ -1350,7 +1350,7 @@ a:hover.back-to-top {
 	.navbar.top-nav-collapse {
 		padding-top: 0.5rem;
 		padding-bottom: 0.5rem;
-		background-color: #f1f9fc;
+		background-color: #e9fae1;
 	}
 
 	.offcanvas-collapse {
